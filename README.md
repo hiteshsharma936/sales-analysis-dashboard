@@ -10,3 +10,5 @@ column.
 I have made visualizations and create report using cards,charts,slicer etc which help to easy understanding of the 
 meaningful insights.
 
+Dashboard:-
+<img width="573" alt="Sales_Dashboard" src="https://github.com/hiteshsharma936/sales-analysis-dashboard/assets/134635754/c9186966-6e6a-42fe-9113-1262995074e8">
