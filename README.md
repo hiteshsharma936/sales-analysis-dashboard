@@ -3,7 +3,7 @@
 A Sales Dashboard that is created using power bi.
 
 In this project,i have made a interactive Power BI Sales Dashboard on Awesome_Chocolate_Company_Sales Data and
-find some insights from the data.In order to building the Dashboard the ETL process was done as per the requirements,
+find useful insights from the data.In order to building the Dashboard the ETL process was done as per the requirements,
 Power query was used to clean and transform the data and DAX was used for creating the Calculated measures and calculated 
 column.
 
